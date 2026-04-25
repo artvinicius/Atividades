@@ -28,6 +28,11 @@ Este repositório tem fins **educacionais** e é utilizado exclusivamente para a
 Jogo de Perguntas - Tela Inicial 
 <img width="418" height="790" alt="image" src="https://github.com/user-attachments/assets/d39ffb8e-291e-4e98-9421-263e3733bf40" />
 
+Tela de Perguntas 
+<img width="418" height="790" alt="image" src="https://github.com/user-attachments/assets/b3c7f598-852c-4527-88fb-328623d3cb02" />
+
+Tela de Resultados
+<img width="398" height="786" alt="image" src="https://github.com/user-attachments/assets/5a2f9155-1c0b-466d-879a-12af708bdd31" />
 
 ---
 Desenvolvido por Arthur Vinicius
