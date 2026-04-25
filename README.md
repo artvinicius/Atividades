@@ -25,6 +25,10 @@ Os projetos e atividades estão organizados em pastas conforme os temas e desafi
 
 Este repositório tem fins **educacionais** e é utilizado exclusivamente para acompanhamento e avaliação das atividades do curso iOS - Capgemini.
 
+Jogo de Perguntas - Tela Inicial 
+<img width="418" height="790" alt="image" src="https://github.com/user-attachments/assets/d39ffb8e-291e-4e98-9421-263e3733bf40" />
+
+
 ---
 Desenvolvido por Arthur Vinicius
 ``
