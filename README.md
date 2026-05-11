@@ -34,6 +34,19 @@ Tela de Perguntas
 Tela de Resultados
 <img width="398" height="786" alt="image" src="https://github.com/user-attachments/assets/5a2f9155-1c0b-466d-879a-12af708bdd31" />
 
+
+App App ShopMaster (MVVM & Navigation)
+
+Tela Inicial
+<img width="712" height="1482" alt="image" src="https://github.com/user-attachments/assets/35f54053-2e7f-4b04-a462-302c94ea5665" />
+
+Tela de Itens
+<img width="738" height="1624" alt="image" src="https://github.com/user-attachments/assets/9c9098a4-3389-4e4e-bc86-1ea98f22c583" />
+
+Carrinho
+<img width="742" height="1622" alt="image" src="https://github.com/user-attachments/assets/f82be0ec-4749-4995-adaa-898b96f9a69d" />
+
+
 ---
 Desenvolvido por Arthur Vinicius
-``
+
